@@ -1,0 +1,14 @@
+E:\Projects\FlowersInc\FlowersInc\FlowersInc\bin\Debug\FlowersInc.exe.config
+E:\Projects\FlowersInc\FlowersInc\FlowersInc\bin\Debug\FlowersInc.exe
+E:\Projects\FlowersInc\FlowersInc\FlowersInc\bin\Debug\FlowersInc.pdb
+E:\Projects\FlowersInc\FlowersInc\FlowersInc\bin\Debug\FlowersInc.xml
+E:\Projects\FlowersInc\FlowersInc\FlowersInc\obj\Debug\FlowersInc.vbprojResolveAssemblyReference.cache
+E:\Projects\FlowersInc\FlowersInc\FlowersInc\obj\Debug\FlowersInc.frmInc.resources
+E:\Projects\FlowersInc\FlowersInc\FlowersInc\obj\Debug\FlowersInc.Resources.resources
+E:\Projects\FlowersInc\FlowersInc\FlowersInc\obj\Debug\FlowersInc.vbproj.GenerateResource.Cache
+E:\Projects\FlowersInc\FlowersInc\FlowersInc\obj\Debug\FlowersInc.exe
+E:\Projects\FlowersInc\FlowersInc\FlowersInc\obj\Debug\FlowersInc.xml
+E:\Projects\FlowersInc\FlowersInc\FlowersInc\obj\Debug\FlowersInc.pdb
+E:\Projects\FlowersInc\FlowersInc\FlowersInc\obj\Debug\FlowersInc.frmQuiz.resources
+E:\Projects\FlowersInc\FlowersInc\FlowersInc\obj\Debug\FlowersInc.frmBouquet.resources
+E:\Projects\FlowersInc\FlowersInc\FlowersInc\obj\Debug\FlowersInc.frmCheckout.resources
